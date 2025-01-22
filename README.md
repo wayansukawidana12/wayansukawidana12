@@ -19,3 +19,4 @@ A student passionate about web development and design, currently learning to bec
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
 
+![img026](https://github.com/user-attachments/assets/633b0844-4c85-444d-b0c6-453a6065e9e1)
