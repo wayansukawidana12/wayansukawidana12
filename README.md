@@ -1,7 +1,7 @@
 
 # Hello everyone 👋 My name is I Wayan Sukawidana. I'm from Indonesia
 
-A student passionate about web development and design, currently learning to become a Front-End Developer.
+A student passionate about web development and design, currently learning to become a Web Developer.
 
 - 🌱 I’m currently learning **PHP** and **Laravel**  
 - 📫 How to reach me **wayansukawidana12@gmail.com**
